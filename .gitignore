@@ -1,0 +1,10 @@
+# Python virtual environments
+venv/
+.venv/
+
+# MkDocs build artifacts
+site/
+
+# Python caches
+__pycache__/
+*.pyc
