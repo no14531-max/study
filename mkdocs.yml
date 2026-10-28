@@ -11,6 +11,8 @@ nav:
       - SQLD:
           - 개요: sqld/index.md
           - 데이터 모델링의 이해: sqld/data-modeling.md
+          - 엔터티: sqld/entity.md
+          - 속성: sqld/Attribute.md
           - 정규화: sqld/normalization.md
       - ADsP: adsp/index.md
   - Python:
