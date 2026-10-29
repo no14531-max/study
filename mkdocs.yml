@@ -9,10 +9,14 @@ nav:
   - 홈: index.md
   - 자격증:
       - SQLD:
-          - 개요: sqld/index.md
-          - 데이터 모델링의 이해: sqld/data-modeling.md
-          - 엔터티: sqld/entity.md
-          - 속성: sqld/Attribute.md
+          - 1과목:
+              - 1장:
+                  - 데이터 모델링의 이해: sqld/data-modeling.md
+                  - 엔터티: sqld/entity.md
+                  - 속성: sqld/Attribute.md
+                  - 관계: sqld/relationship.md
+                  - 식별자: sqld/Identifier.md
+              #- 2장:
       - ADsP: adsp/index.md
   - Python:
       - BFS와 DFS: python/bfs-dfs.md
