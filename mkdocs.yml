@@ -16,7 +16,8 @@ nav:
                   - 속성: sqld/Attribute.md
                   - 관계: sqld/relationship.md
                   - 식별자: sqld/Identifier.md
-              #- 2장:
+              - 2장:
+                  - 정규화: sqld/normalization.md
       - ADsP: adsp/index.md
   - Python:
       - BFS와 DFS: python/bfs-dfs.md
