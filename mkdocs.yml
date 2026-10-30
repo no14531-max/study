@@ -18,6 +18,7 @@ nav:
                   - 식별자: sqld/Identifier.md
               - 2장:
                   - 정규화: sqld/normalization.md
+                  - 반정규화: sqld/denormalization.md
       - ADsP: adsp/index.md
   - Python:
       - BFS와 DFS: python/bfs-dfs.md
