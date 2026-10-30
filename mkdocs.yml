@@ -19,6 +19,9 @@ nav:
               - 2장:
                   - 정규화: sqld/normalization.md
                   - 반정규화: sqld/denormalization.md
+                  - 트랜잭션: sqld/Transaction.md
+                  - 'NULL': sqld/null.md
+                  - 본질식별자와 인조식별자: sqld/identifier-types.md
       - ADsP: adsp/index.md
   - Python:
       - BFS와 DFS: python/bfs-dfs.md
